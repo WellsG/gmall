@@ -6,6 +6,7 @@ https://tools.ietf.org/html/rfc6749 </br>
 * Appache OLTU</br>
 *https://oltu.apache.org/*</br>
 *https://cwiki.apache.org/confluence/display/OLTU/OAuth+2.0+Client+Quickstart* </br>
+*https://svn.apache.org/repos/asf/oltu/trunk/demos/client-demo/* </br>
 
 * Github </br>
 *https://developer.github.com/v3/oauth/*  </br>
